@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @JBloke
+- 👀 I’m interested in Web devlopment...
+- 🌱 I’m currently learning Shell scripting, Javascripting...
+- 💞️ I’m looking to collaborate on anything...
+
+<!---
+JBloke/JBloke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
